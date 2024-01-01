@@ -34,7 +34,15 @@
 O código foi projetado para análise de dados específicos. Adapte-o conforme necessário para diferentes conjuntos de dados.
 Experimente ajustar outros parâmetros e explorar mais valores de ccp_alpha para otimizar o desempenho do modelo.
 Sinta-se à vontade para contribuir, relatar problemas ou fornecer sugestões para aprimorar este projeto!
+### Obs.:
+Os arquivos x_test.txt e x_train.txt são muito grandes para o github o download se encontra nos links abaixo:
+Sua primeira atividade é carregar a base.
 
+Ela está disponível neste link: https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
+dados https://archive.ics.uci.edu/ml/machine-learning-databases/00240/
+dataset.names https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.names
+UCI HAR Dataset.zip https://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 
 
 
